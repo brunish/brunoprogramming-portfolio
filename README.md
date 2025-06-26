@@ -1,10 +1,7 @@
-# brunoprogramming-portfolio
-Portafolio profesional de Bruno – Proyectos de programación en Java, Python, JS, Angular y más.
-
 # 🧠 brunoprogramming-portfolio
 
 ¡Bienvenido a mi portafolio de programación!  
-Soy **Bruno**, estudiante de segundo año de Ingeniería Informática en Uruguay, apasionado por crear soluciones útiles, reales y con propósito. En este repositorio agrupo todos mis proyectos personales y académicos en diferentes lenguajes y tecnologías.
+Soy **Bruno**, estudiante de segundo año de Ingeniería Informática en la UCU, apasionado por crear soluciones útiles, reales y con propósito. En este repositorio agrupo todos mis proyectos personales en diferentes lenguajes y tecnologías.
 
 ---
 
@@ -32,10 +29,6 @@ Soy **Bruno**, estudiante de segundo año de Ingeniería Informática en Uruguay
 
 📦 Estoy en proceso de subir y documentar mis proyectos. En las próximas semanas vas a encontrar:
 
-- Gestores de finanzas personales
-- Simuladores de combate por turnos
-- Apps para entrenamiento y Jiu-Jitsu
-- Herramientas para hábitos, nutrición y más
 
 ---
 
@@ -48,5 +41,5 @@ Construir un portafolio sólido que refleje tanto mi nivel técnico como mis int
 ## 📩 Contacto
 
 - GitHub: [@brunish](https://github.com/brunish)
-- LinkedIn: [linkedin.com/in/brunish](https://linkedin.com/in/brunish)
-- Email: bruno.personal@gmail.com
+- LinkedIn:
+- Email: brunooca23@gmail.com
