@@ -44,6 +44,8 @@ jobs:
                  projects/AppGastosCompartidos/index.html
           cp -r projects/AppGastosCompartidos/dist/. projects/AppGastosCompartidos/
           rm -rf projects/AppGastosCompartidos/dist
+          # Evitar que Jekyll interfiera con los assets de Vite
+          touch .nojekyll
 
       - uses: actions/configure-pages@v4
 
